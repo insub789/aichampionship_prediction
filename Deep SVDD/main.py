@@ -169,7 +169,7 @@ def main(dataset_name, net_name, xp_path, data_path, load_config, load_model, ob
         
     # Test model
     deep_SVDD.test(dataset, device=device, n_jobs_dataloader=n_jobs_dataloader)
-    
+    if not save_points_outside_r:
     deep_SVDD.save_results(export_json=xp_path + '/results.json')
     deep_SVDD.save_model(export_model=xp_path + '/model.tar')
     cfg.save_config(export_json=xp_path + '/config.json')
