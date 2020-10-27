@@ -1,0 +1,1126 @@
+2020-10-23 23:13:34,228 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-23 23:13:34,229 - root - INFO - Data path is Desktop/workspace/.
+2020-10-23 23:13:34,229 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-23 23:13:34,229 - root - INFO - Dataset: ADbaemin
+2020-10-23 23:13:34,229 - root - INFO - Normal class: 0
+2020-10-23 23:13:34,229 - root - INFO - Network: baeminNet
+2020-10-23 23:13:34,229 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-23 23:13:34,229 - root - INFO - Nu-paramerter: 0.10
+2020-10-23 23:13:34,265 - root - INFO - Computation device: cuda
+2020-10-23 23:13:34,265 - root - INFO - Number of dataloader workers: 0
+2020-10-23 23:14:14,274 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-23 23:14:14,274 - root - INFO - Data path is Desktop/workspace/.
+2020-10-23 23:14:14,274 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-23 23:14:14,274 - root - INFO - Dataset: ADbaemin
+2020-10-23 23:14:14,274 - root - INFO - Normal class: 0
+2020-10-23 23:14:14,274 - root - INFO - Network: baeminNet
+2020-10-23 23:14:14,274 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-23 23:14:14,274 - root - INFO - Nu-paramerter: 0.10
+2020-10-23 23:14:14,309 - root - INFO - Computation device: cuda
+2020-10-23 23:14:14,309 - root - INFO - Number of dataloader workers: 0
+2020-10-23 23:14:41,662 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-23 23:14:41,663 - root - INFO - Data path is Desktop/workspace/.
+2020-10-23 23:14:41,663 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-23 23:14:41,663 - root - INFO - Dataset: ADbaemin
+2020-10-23 23:14:41,663 - root - INFO - Normal class: 0
+2020-10-23 23:14:41,663 - root - INFO - Network: baeminNet
+2020-10-23 23:14:41,663 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-23 23:14:41,663 - root - INFO - Nu-paramerter: 0.10
+2020-10-23 23:14:41,697 - root - INFO - Computation device: cuda
+2020-10-23 23:14:41,697 - root - INFO - Number of dataloader workers: 0
+2020-10-23 23:14:58,641 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-23 23:14:58,642 - root - INFO - Data path is Desktop/workspace/.
+2020-10-23 23:14:58,642 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-23 23:14:58,642 - root - INFO - Dataset: ADbaemin
+2020-10-23 23:14:58,642 - root - INFO - Normal class: 0
+2020-10-23 23:14:58,642 - root - INFO - Network: baeminNet
+2020-10-23 23:14:58,642 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-23 23:14:58,642 - root - INFO - Nu-paramerter: 0.10
+2020-10-23 23:14:58,676 - root - INFO - Computation device: cuda
+2020-10-23 23:14:58,676 - root - INFO - Number of dataloader workers: 0
+2020-10-23 23:14:59,466 - root - INFO - Pretraining: False
+2020-10-23 23:14:59,466 - root - INFO - Training optimizer: adam
+2020-10-23 23:14:59,466 - root - INFO - Training learning rate: 0.001
+2020-10-23 23:14:59,466 - root - INFO - Training epochs: 5
+2020-10-23 23:14:59,466 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-23 23:14:59,466 - root - INFO - Training batch size: 128
+2020-10-23 23:14:59,466 - root - INFO - Training weight decay: 1e-06
+2020-10-23 23:15:00,821 - root - INFO - Initializing center c...
+2020-10-23 23:15:17,707 - root - INFO - Center c initialized.
+2020-10-23 23:15:17,707 - root - INFO - Starting training...
+2020-10-23 23:15:36,249 - root - INFO -   Epoch 1/5	 Time: 18.541	 Loss: 824.91857938
+2020-10-23 23:15:54,762 - root - INFO -   Epoch 2/5	 Time: 18.512	 Loss: 270.94759449
+2020-10-23 23:16:13,365 - root - INFO -   Epoch 3/5	 Time: 18.603	 Loss: 64.33568872
+2020-10-23 23:16:32,037 - root - INFO -   Epoch 4/5	 Time: 18.672	 Loss: 9.87283303
+2020-10-23 23:16:50,635 - root - INFO -   Epoch 5/5	 Time: 18.597	 Loss: 0.87138968
+2020-10-23 23:16:50,635 - root - INFO - Training time: 92.927
+2020-10-23 23:16:50,635 - root - INFO - Finished training.
+2020-10-23 23:16:50,635 - root - INFO - Saving points outside of r
+2020-10-23 23:17:45,879 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-23 23:17:45,880 - root - INFO - Data path is Desktop/workspace/.
+2020-10-23 23:17:45,880 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-23 23:17:45,880 - root - INFO - Dataset: ADbaemin
+2020-10-23 23:17:45,880 - root - INFO - Normal class: 0
+2020-10-23 23:17:45,880 - root - INFO - Network: baeminNet
+2020-10-23 23:17:45,880 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-23 23:17:45,880 - root - INFO - Nu-paramerter: 0.10
+2020-10-23 23:17:45,914 - root - INFO - Computation device: cuda
+2020-10-23 23:17:45,914 - root - INFO - Number of dataloader workers: 0
+2020-10-23 23:17:46,726 - root - INFO - Pretraining: False
+2020-10-23 23:17:46,726 - root - INFO - Training optimizer: adam
+2020-10-23 23:17:46,726 - root - INFO - Training learning rate: 0.001
+2020-10-23 23:17:46,726 - root - INFO - Training epochs: 1
+2020-10-23 23:17:46,726 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-23 23:17:46,726 - root - INFO - Training batch size: 128
+2020-10-23 23:17:46,726 - root - INFO - Training weight decay: 1e-06
+2020-10-23 23:17:48,087 - root - INFO - Initializing center c...
+2020-10-23 23:18:04,748 - root - INFO - Center c initialized.
+2020-10-23 23:18:04,748 - root - INFO - Starting training...
+2020-10-23 23:18:23,109 - root - INFO -   Epoch 1/1	 Time: 18.360	 Loss: 820.89325457
+2020-10-23 23:18:23,109 - root - INFO - Training time: 18.361
+2020-10-23 23:18:23,109 - root - INFO - Finished training.
+2020-10-23 23:18:23,109 - root - INFO - Saving points outside of r
+2020-10-23 23:21:08,734 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-23 23:21:08,734 - root - INFO - Data path is Desktop/workspace/.
+2020-10-23 23:21:08,734 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-23 23:21:08,734 - root - INFO - Dataset: ADbaemin
+2020-10-23 23:21:08,734 - root - INFO - Normal class: 0
+2020-10-23 23:21:08,734 - root - INFO - Network: baeminNet
+2020-10-23 23:21:08,734 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-23 23:21:08,734 - root - INFO - Nu-paramerter: 0.10
+2020-10-23 23:21:08,769 - root - INFO - Computation device: cuda
+2020-10-23 23:21:08,769 - root - INFO - Number of dataloader workers: 0
+2020-10-23 23:21:09,563 - root - INFO - Pretraining: False
+2020-10-23 23:21:09,564 - root - INFO - Training optimizer: adam
+2020-10-23 23:21:09,564 - root - INFO - Training learning rate: 0.001
+2020-10-23 23:21:09,564 - root - INFO - Training epochs: 0
+2020-10-23 23:21:09,564 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-23 23:21:09,564 - root - INFO - Training batch size: 128
+2020-10-23 23:21:09,564 - root - INFO - Training weight decay: 1e-06
+2020-10-23 23:21:10,872 - root - INFO - Initializing center c...
+2020-10-23 23:21:27,430 - root - INFO - Center c initialized.
+2020-10-23 23:21:27,431 - root - INFO - Starting training...
+2020-10-23 23:21:27,431 - root - INFO - Training time: 0.000
+2020-10-23 23:21:27,431 - root - INFO - Finished training.
+2020-10-23 23:21:27,431 - root - INFO - Saving points outside of r
+2020-10-23 23:38:16,890 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-23 23:38:16,890 - root - INFO - Data path is Desktop/workspace/.
+2020-10-23 23:38:16,890 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-23 23:38:16,890 - root - INFO - Dataset: ADbaemin
+2020-10-23 23:38:16,890 - root - INFO - Normal class: 0
+2020-10-23 23:38:16,890 - root - INFO - Network: baeminNet
+2020-10-23 23:38:16,890 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-23 23:38:16,891 - root - INFO - Nu-paramerter: 0.10
+2020-10-23 23:38:16,924 - root - INFO - Computation device: cuda
+2020-10-23 23:38:16,924 - root - INFO - Number of dataloader workers: 0
+2020-10-23 23:38:17,739 - root - INFO - Pretraining: False
+2020-10-23 23:38:17,739 - root - INFO - Training optimizer: adam
+2020-10-23 23:38:17,739 - root - INFO - Training learning rate: 0.001
+2020-10-23 23:38:17,739 - root - INFO - Training epochs: 0
+2020-10-23 23:38:17,739 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-23 23:38:17,739 - root - INFO - Training batch size: 128
+2020-10-23 23:38:17,739 - root - INFO - Training weight decay: 1e-06
+2020-10-23 23:38:19,091 - root - INFO - Initializing center c...
+2020-10-23 23:38:35,750 - root - INFO - Center c initialized.
+2020-10-23 23:38:35,750 - root - INFO - Starting training...
+2020-10-23 23:38:35,750 - root - INFO - Training time: 0.000
+2020-10-23 23:38:35,750 - root - INFO - Finished training.
+2020-10-23 23:38:35,751 - root - INFO - Saving points outside of r
+2020-10-23 23:46:01,961 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-23 23:46:01,961 - root - INFO - Data path is Desktop/workspace/.
+2020-10-23 23:46:01,961 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-23 23:46:01,961 - root - INFO - Dataset: ADbaemin
+2020-10-23 23:46:01,961 - root - INFO - Normal class: 0
+2020-10-23 23:46:01,961 - root - INFO - Network: baeminNet
+2020-10-23 23:46:01,961 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-23 23:46:01,961 - root - INFO - Nu-paramerter: 0.10
+2020-10-23 23:46:01,996 - root - INFO - Computation device: cuda
+2020-10-23 23:46:01,996 - root - INFO - Number of dataloader workers: 0
+2020-10-23 23:46:02,829 - root - INFO - Pretraining: False
+2020-10-23 23:46:02,830 - root - INFO - Training optimizer: adam
+2020-10-23 23:46:02,830 - root - INFO - Training learning rate: 0.001
+2020-10-23 23:46:02,830 - root - INFO - Training epochs: 0
+2020-10-23 23:46:02,830 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-23 23:46:02,830 - root - INFO - Training batch size: 128
+2020-10-23 23:46:02,830 - root - INFO - Training weight decay: 1e-06
+2020-10-23 23:46:04,143 - root - INFO - Initializing center c...
+2020-10-23 23:46:20,940 - root - INFO - Center c initialized.
+2020-10-23 23:46:20,940 - root - INFO - Starting training...
+2020-10-23 23:46:20,940 - root - INFO - Training time: 0.000
+2020-10-23 23:46:20,940 - root - INFO - Finished training.
+2020-10-23 23:46:20,940 - root - INFO - Saving points outside of r
+2020-10-23 23:46:49,952 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-23 23:46:49,952 - root - INFO - Data path is Desktop/workspace/.
+2020-10-23 23:46:49,952 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-23 23:46:49,952 - root - INFO - Dataset: ADbaemin
+2020-10-23 23:46:49,952 - root - INFO - Normal class: 0
+2020-10-23 23:46:49,952 - root - INFO - Network: baeminNet
+2020-10-23 23:46:49,952 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-23 23:46:49,952 - root - INFO - Nu-paramerter: 0.10
+2020-10-23 23:46:49,985 - root - INFO - Computation device: cuda
+2020-10-23 23:46:49,985 - root - INFO - Number of dataloader workers: 0
+2020-10-23 23:46:50,769 - root - INFO - Pretraining: False
+2020-10-23 23:46:50,769 - root - INFO - Training optimizer: adam
+2020-10-23 23:46:50,769 - root - INFO - Training learning rate: 0.001
+2020-10-23 23:46:50,769 - root - INFO - Training epochs: 0
+2020-10-23 23:46:50,769 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-23 23:46:50,769 - root - INFO - Training batch size: 128
+2020-10-23 23:46:50,769 - root - INFO - Training weight decay: 1e-06
+2020-10-23 23:46:52,069 - root - INFO - Initializing center c...
+2020-10-23 23:47:08,630 - root - INFO - Center c initialized.
+2020-10-23 23:47:08,630 - root - INFO - Starting training...
+2020-10-23 23:47:08,630 - root - INFO - Training time: 0.000
+2020-10-23 23:47:08,630 - root - INFO - Finished training.
+2020-10-23 23:47:08,631 - root - INFO - Saving points outside of r
+2020-10-24 05:49:50,283 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 05:49:50,284 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 05:49:50,284 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 05:49:50,284 - root - INFO - Dataset: ADbaemin
+2020-10-24 05:49:50,284 - root - INFO - Normal class: 0
+2020-10-24 05:49:50,284 - root - INFO - Network: baeminNet
+2020-10-24 05:49:50,284 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 05:49:50,284 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 05:49:50,321 - root - INFO - Computation device: cuda
+2020-10-24 05:49:50,322 - root - INFO - Number of dataloader workers: 0
+2020-10-24 05:49:51,142 - root - INFO - Pretraining: False
+2020-10-24 05:49:51,143 - root - INFO - Training optimizer: adam
+2020-10-24 05:49:51,143 - root - INFO - Training learning rate: 0.001
+2020-10-24 05:49:51,143 - root - INFO - Training epochs: 0
+2020-10-24 05:49:51,143 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 05:49:51,143 - root - INFO - Training batch size: 128
+2020-10-24 05:49:51,143 - root - INFO - Training weight decay: 1e-06
+2020-10-24 05:49:52,497 - root - INFO - Initializing center c...
+2020-10-24 05:50:08,935 - root - INFO - Center c initialized.
+2020-10-24 05:50:08,935 - root - INFO - Starting training...
+2020-10-24 05:50:08,935 - root - INFO - Training time: 0.000
+2020-10-24 05:50:08,935 - root - INFO - Finished training.
+2020-10-24 05:50:08,936 - root - INFO - Saving points outside of r
+2020-10-24 06:59:47,126 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 06:59:47,126 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 06:59:47,126 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 06:59:47,126 - root - INFO - Dataset: ADbaemin
+2020-10-24 06:59:47,126 - root - INFO - Normal class: 0
+2020-10-24 06:59:47,126 - root - INFO - Network: baeminNet
+2020-10-24 06:59:47,126 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 06:59:47,127 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 06:59:47,163 - root - INFO - Computation device: cuda
+2020-10-24 06:59:47,163 - root - INFO - Number of dataloader workers: 0
+2020-10-24 06:59:47,974 - root - INFO - Pretraining: False
+2020-10-24 06:59:47,974 - root - INFO - Training optimizer: adam
+2020-10-24 06:59:47,974 - root - INFO - Training learning rate: 0.001
+2020-10-24 06:59:47,974 - root - INFO - Training epochs: 0
+2020-10-24 06:59:47,975 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 06:59:47,975 - root - INFO - Training batch size: 128
+2020-10-24 06:59:47,975 - root - INFO - Training weight decay: 1e-06
+2020-10-24 06:59:49,318 - root - INFO - Initializing center c...
+2020-10-24 07:00:06,440 - root - INFO - Center c initialized.
+2020-10-24 07:00:06,440 - root - INFO - Starting training...
+2020-10-24 07:00:06,440 - root - INFO - Training time: 0.000
+2020-10-24 07:00:06,440 - root - INFO - Finished training.
+2020-10-24 07:00:06,440 - root - INFO - Saving points outside of r
+2020-10-24 07:02:22,094 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 07:02:22,094 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 07:02:22,094 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 07:02:22,094 - root - INFO - Dataset: ADbaemin
+2020-10-24 07:02:22,094 - root - INFO - Normal class: 0
+2020-10-24 07:02:22,094 - root - INFO - Network: baeminNet
+2020-10-24 07:02:22,094 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 07:02:22,095 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 07:02:22,129 - root - INFO - Computation device: cuda
+2020-10-24 07:02:22,129 - root - INFO - Number of dataloader workers: 0
+2020-10-24 07:02:22,978 - root - INFO - Pretraining: False
+2020-10-24 07:02:22,978 - root - INFO - Training optimizer: adam
+2020-10-24 07:02:22,978 - root - INFO - Training learning rate: 0.001
+2020-10-24 07:02:22,978 - root - INFO - Training epochs: 0
+2020-10-24 07:02:22,978 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 07:02:22,978 - root - INFO - Training batch size: 128
+2020-10-24 07:02:22,978 - root - INFO - Training weight decay: 1e-06
+2020-10-24 07:02:24,327 - root - INFO - Initializing center c...
+2020-10-24 07:02:41,785 - root - INFO - Center c initialized.
+2020-10-24 07:02:41,785 - root - INFO - Starting training...
+2020-10-24 07:02:41,785 - root - INFO - Training time: 0.000
+2020-10-24 07:02:41,785 - root - INFO - Finished training.
+2020-10-24 07:02:41,786 - root - INFO - Saving points outside of r
+2020-10-24 07:08:07,377 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 07:08:07,377 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 07:08:07,377 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 07:08:07,377 - root - INFO - Dataset: ADbaemin
+2020-10-24 07:08:07,377 - root - INFO - Normal class: 0
+2020-10-24 07:08:07,377 - root - INFO - Network: baeminNet
+2020-10-24 07:08:07,377 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 07:08:07,377 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 07:08:07,412 - root - INFO - Computation device: cuda
+2020-10-24 07:08:07,412 - root - INFO - Number of dataloader workers: 0
+2020-10-24 07:08:08,232 - root - INFO - Pretraining: False
+2020-10-24 07:08:08,233 - root - INFO - Training optimizer: adam
+2020-10-24 07:08:08,233 - root - INFO - Training learning rate: 0.001
+2020-10-24 07:08:08,233 - root - INFO - Training epochs: 0
+2020-10-24 07:08:08,233 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 07:08:08,233 - root - INFO - Training batch size: 128
+2020-10-24 07:08:08,233 - root - INFO - Training weight decay: 1e-06
+2020-10-24 07:08:09,613 - root - INFO - Initializing center c...
+2020-10-24 07:08:26,132 - root - INFO - Center c initialized.
+2020-10-24 07:08:26,132 - root - INFO - Starting training...
+2020-10-24 07:08:26,132 - root - INFO - Training time: 0.000
+2020-10-24 07:08:26,132 - root - INFO - Finished training.
+2020-10-24 07:08:26,132 - root - INFO - Saving points outside of r
+2020-10-24 07:09:07,781 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 07:09:07,781 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 07:09:07,781 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 07:09:07,781 - root - INFO - Dataset: ADbaemin
+2020-10-24 07:09:07,781 - root - INFO - Normal class: 0
+2020-10-24 07:09:07,781 - root - INFO - Network: baeminNet
+2020-10-24 07:09:07,781 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 07:09:07,781 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 07:09:07,815 - root - INFO - Computation device: cuda
+2020-10-24 07:09:07,816 - root - INFO - Number of dataloader workers: 0
+2020-10-24 07:09:08,616 - root - INFO - Pretraining: False
+2020-10-24 07:09:08,616 - root - INFO - Training optimizer: adam
+2020-10-24 07:09:08,616 - root - INFO - Training learning rate: 0.001
+2020-10-24 07:09:08,616 - root - INFO - Training epochs: 0
+2020-10-24 07:09:08,616 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 07:09:08,616 - root - INFO - Training batch size: 128
+2020-10-24 07:09:08,616 - root - INFO - Training weight decay: 1e-06
+2020-10-24 07:09:09,995 - root - INFO - Initializing center c...
+2020-10-24 07:09:26,857 - root - INFO - Center c initialized.
+2020-10-24 07:09:26,858 - root - INFO - Starting training...
+2020-10-24 07:09:26,858 - root - INFO - Training time: 0.000
+2020-10-24 07:09:26,858 - root - INFO - Finished training.
+2020-10-24 07:09:26,858 - root - INFO - Saving points outside of r
+2020-10-24 07:11:08,525 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 07:11:08,525 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 07:11:08,525 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 07:11:08,525 - root - INFO - Dataset: ADbaemin
+2020-10-24 07:11:08,525 - root - INFO - Normal class: 0
+2020-10-24 07:11:08,525 - root - INFO - Network: baeminNet
+2020-10-24 07:11:08,525 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 07:11:08,525 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 07:11:08,560 - root - INFO - Computation device: cuda
+2020-10-24 07:11:08,560 - root - INFO - Number of dataloader workers: 0
+2020-10-24 07:11:09,367 - root - INFO - Pretraining: False
+2020-10-24 07:11:09,367 - root - INFO - Training optimizer: adam
+2020-10-24 07:11:09,367 - root - INFO - Training learning rate: 0.001
+2020-10-24 07:11:09,367 - root - INFO - Training epochs: 1
+2020-10-24 07:11:09,367 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 07:11:09,367 - root - INFO - Training batch size: 128
+2020-10-24 07:11:09,367 - root - INFO - Training weight decay: 1e-06
+2020-10-24 07:11:10,739 - root - INFO - Initializing center c...
+2020-10-24 07:11:27,715 - root - INFO - Center c initialized.
+2020-10-24 07:11:27,715 - root - INFO - Starting training...
+2020-10-24 07:11:46,516 - root - INFO -   Epoch 1/1	 Time: 18.801	 Loss: 821.65503443
+2020-10-24 07:11:46,517 - root - INFO - Training time: 18.801
+2020-10-24 07:11:46,517 - root - INFO - Finished training.
+2020-10-24 07:11:46,517 - root - INFO - Saving points outside of r
+2020-10-24 09:24:29,815 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 09:24:29,815 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 09:24:29,815 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 09:24:29,815 - root - INFO - Dataset: ADbaemin
+2020-10-24 09:24:29,815 - root - INFO - Normal class: 0
+2020-10-24 09:24:29,815 - root - INFO - Network: baeminNet
+2020-10-24 09:24:29,815 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 09:24:29,815 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 09:24:29,855 - root - INFO - Computation device: cuda
+2020-10-24 09:24:29,855 - root - INFO - Number of dataloader workers: 0
+2020-10-24 09:24:30,680 - root - INFO - Pretraining: False
+2020-10-24 09:24:30,680 - root - INFO - Training optimizer: adam
+2020-10-24 09:24:30,680 - root - INFO - Training learning rate: 0.001
+2020-10-24 09:24:30,680 - root - INFO - Training epochs: 1
+2020-10-24 09:24:30,680 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 09:24:30,680 - root - INFO - Training batch size: 128
+2020-10-24 09:24:30,680 - root - INFO - Training weight decay: 1e-06
+2020-10-24 09:24:32,047 - root - INFO - Initializing center c...
+2020-10-24 09:24:48,852 - root - INFO - Center c initialized.
+2020-10-24 09:24:48,852 - root - INFO - Starting training...
+2020-10-24 09:25:07,226 - root - INFO -   Epoch 1/1	 Time: 18.373	 Loss: 824.01443086
+2020-10-24 09:25:07,226 - root - INFO - Training time: 18.374
+2020-10-24 09:25:07,226 - root - INFO - Finished training.
+2020-10-24 09:25:07,227 - root - INFO - Saving points outside of r
+2020-10-24 09:25:49,518 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 09:25:49,518 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 09:25:49,518 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 09:25:49,518 - root - INFO - Dataset: ADbaemin
+2020-10-24 09:25:49,518 - root - INFO - Normal class: 0
+2020-10-24 09:25:49,518 - root - INFO - Network: baeminNet
+2020-10-24 09:25:49,519 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 09:25:49,519 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 09:25:49,553 - root - INFO - Computation device: cuda
+2020-10-24 09:25:49,554 - root - INFO - Number of dataloader workers: 0
+2020-10-24 09:25:50,359 - root - INFO - Pretraining: False
+2020-10-24 09:25:50,359 - root - INFO - Training optimizer: adam
+2020-10-24 09:25:50,359 - root - INFO - Training learning rate: 0.001
+2020-10-24 09:25:50,359 - root - INFO - Training epochs: 1
+2020-10-24 09:25:50,359 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 09:25:50,359 - root - INFO - Training batch size: 128
+2020-10-24 09:25:50,359 - root - INFO - Training weight decay: 1e-06
+2020-10-24 09:25:51,693 - root - INFO - Initializing center c...
+2020-10-24 09:26:08,656 - root - INFO - Center c initialized.
+2020-10-24 09:26:08,656 - root - INFO - Starting training...
+2020-10-24 09:26:27,243 - root - INFO -   Epoch 1/1	 Time: 18.586	 Loss: 824.51783593
+2020-10-24 09:26:27,243 - root - INFO - Training time: 18.587
+2020-10-24 09:26:27,243 - root - INFO - Finished training.
+2020-10-24 09:26:27,243 - root - INFO - Saving points outside of r
+2020-10-24 09:27:57,472 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 09:27:57,473 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 09:27:57,473 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 09:27:57,473 - root - INFO - Dataset: ADbaemin
+2020-10-24 09:27:57,473 - root - INFO - Normal class: 0
+2020-10-24 09:27:57,473 - root - INFO - Network: baeminNet
+2020-10-24 09:27:57,473 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 09:27:57,473 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 09:27:57,507 - root - INFO - Computation device: cuda
+2020-10-24 09:27:57,507 - root - INFO - Number of dataloader workers: 0
+2020-10-24 09:27:58,322 - root - INFO - Pretraining: False
+2020-10-24 09:27:58,322 - root - INFO - Training optimizer: adam
+2020-10-24 09:27:58,322 - root - INFO - Training learning rate: 0.001
+2020-10-24 09:27:58,322 - root - INFO - Training epochs: 1
+2020-10-24 09:27:58,322 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 09:27:58,322 - root - INFO - Training batch size: 128
+2020-10-24 09:27:58,322 - root - INFO - Training weight decay: 1e-06
+2020-10-24 09:27:59,675 - root - INFO - Initializing center c...
+2020-10-24 09:28:16,746 - root - INFO - Center c initialized.
+2020-10-24 09:28:16,746 - root - INFO - Starting training...
+2020-10-24 09:28:35,535 - root - INFO -   Epoch 1/1	 Time: 18.789	 Loss: 813.21837200
+2020-10-24 09:28:35,535 - root - INFO - Training time: 18.789
+2020-10-24 09:28:35,535 - root - INFO - Finished training.
+2020-10-24 09:28:35,536 - root - INFO - Saving points outside of r
+2020-10-24 09:33:33,724 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 09:33:33,724 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 09:33:33,724 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 09:33:33,724 - root - INFO - Dataset: ADbaemin
+2020-10-24 09:33:33,724 - root - INFO - Normal class: 0
+2020-10-24 09:33:33,724 - root - INFO - Network: baeminNet
+2020-10-24 09:33:33,724 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 09:33:33,724 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 09:33:33,758 - root - INFO - Computation device: cuda
+2020-10-24 09:33:33,758 - root - INFO - Number of dataloader workers: 0
+2020-10-24 09:33:34,564 - root - INFO - Pretraining: False
+2020-10-24 09:33:34,564 - root - INFO - Training optimizer: adam
+2020-10-24 09:33:34,564 - root - INFO - Training learning rate: 0.001
+2020-10-24 09:33:34,564 - root - INFO - Training epochs: 1
+2020-10-24 09:33:34,564 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 09:33:34,564 - root - INFO - Training batch size: 128
+2020-10-24 09:33:34,564 - root - INFO - Training weight decay: 1e-06
+2020-10-24 09:33:35,918 - root - INFO - Initializing center c...
+2020-10-24 09:33:52,577 - root - INFO - Center c initialized.
+2020-10-24 09:33:52,577 - root - INFO - Starting training...
+2020-10-24 09:34:10,976 - root - INFO -   Epoch 1/1	 Time: 18.399	 Loss: 144.99622534
+2020-10-24 09:34:10,977 - root - INFO - Training time: 18.399
+2020-10-24 09:34:10,977 - root - INFO - Finished training.
+2020-10-24 09:34:10,978 - root - INFO - Saving points outside of r
+2020-10-24 09:34:44,559 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 09:34:44,559 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 09:34:44,559 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 09:34:44,559 - root - INFO - Dataset: ADbaemin
+2020-10-24 09:34:44,559 - root - INFO - Normal class: 0
+2020-10-24 09:34:44,559 - root - INFO - Network: baeminNet
+2020-10-24 09:34:44,559 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 09:34:44,559 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 09:34:44,594 - root - INFO - Computation device: cuda
+2020-10-24 09:34:44,594 - root - INFO - Number of dataloader workers: 0
+2020-10-24 09:34:45,416 - root - INFO - Pretraining: False
+2020-10-24 09:34:45,416 - root - INFO - Training optimizer: adam
+2020-10-24 09:34:45,416 - root - INFO - Training learning rate: 0.001
+2020-10-24 09:34:45,416 - root - INFO - Training epochs: 1
+2020-10-24 09:34:45,416 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 09:34:45,416 - root - INFO - Training batch size: 128
+2020-10-24 09:34:45,416 - root - INFO - Training weight decay: 1e-06
+2020-10-24 09:34:46,761 - root - INFO - Initializing center c...
+2020-10-24 09:35:03,210 - root - INFO - Center c initialized.
+2020-10-24 09:35:03,210 - root - INFO - Starting training...
+2020-10-24 09:35:21,539 - root - INFO -   Epoch 1/1	 Time: 18.329	 Loss: 144.26198387
+2020-10-24 09:35:21,540 - root - INFO - Training time: 18.330
+2020-10-24 09:35:21,540 - root - INFO - Finished training.
+2020-10-24 09:35:21,541 - root - INFO - Saving points outside of r
+2020-10-24 09:36:27,487 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 09:36:27,488 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 09:36:27,488 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 09:36:27,488 - root - INFO - Dataset: ADbaemin
+2020-10-24 09:36:27,488 - root - INFO - Normal class: 0
+2020-10-24 09:36:27,488 - root - INFO - Network: baeminNet
+2020-10-24 09:36:27,488 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 09:36:27,488 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 09:36:27,521 - root - INFO - Computation device: cuda
+2020-10-24 09:36:27,522 - root - INFO - Number of dataloader workers: 0
+2020-10-24 09:36:28,326 - root - INFO - Pretraining: False
+2020-10-24 09:36:28,326 - root - INFO - Training optimizer: adam
+2020-10-24 09:36:28,326 - root - INFO - Training learning rate: 0.001
+2020-10-24 09:36:28,326 - root - INFO - Training epochs: 1
+2020-10-24 09:36:28,326 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 09:36:28,326 - root - INFO - Training batch size: 128
+2020-10-24 09:36:28,327 - root - INFO - Training weight decay: 1e-06
+2020-10-24 09:36:29,679 - root - INFO - Initializing center c...
+2020-10-24 09:36:46,469 - root - INFO - Center c initialized.
+2020-10-24 09:36:46,469 - root - INFO - Starting training...
+2020-10-24 09:37:05,480 - root - INFO -   Epoch 1/1	 Time: 19.010	 Loss: 146.32062607
+2020-10-24 09:37:05,480 - root - INFO - Training time: 19.011
+2020-10-24 09:37:05,480 - root - INFO - Finished training.
+2020-10-24 09:37:05,480 - root - INFO - Saving points outside of r
+2020-10-24 12:04:25,331 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 12:04:25,332 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 12:04:25,332 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 12:04:25,332 - root - INFO - Dataset: ADbaemin
+2020-10-24 12:04:25,332 - root - INFO - Normal class: 0
+2020-10-24 12:04:25,332 - root - INFO - Network: baeminNet
+2020-10-24 12:04:25,332 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 12:04:25,332 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 12:04:25,366 - root - INFO - Computation device: cuda
+2020-10-24 12:04:25,366 - root - INFO - Number of dataloader workers: 0
+2020-10-24 12:04:26,166 - root - INFO - Pretraining: False
+2020-10-24 12:04:26,166 - root - INFO - Training optimizer: adam
+2020-10-24 12:04:26,166 - root - INFO - Training learning rate: 0.001
+2020-10-24 12:04:26,166 - root - INFO - Training epochs: 1
+2020-10-24 12:04:26,166 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 12:04:26,166 - root - INFO - Training batch size: 128
+2020-10-24 12:04:26,166 - root - INFO - Training weight decay: 1e-06
+2020-10-24 12:04:27,520 - root - INFO - Initializing center c...
+2020-10-24 12:04:44,639 - root - INFO - Center c initialized.
+2020-10-24 12:04:44,639 - root - INFO - Starting training...
+2020-10-24 12:05:03,565 - root - INFO -   Epoch 1/1	 Time: 18.925	 Loss: 145.79063266
+2020-10-24 12:05:03,565 - root - INFO - Training time: 18.926
+2020-10-24 12:05:03,565 - root - INFO - Finished training.
+2020-10-24 12:05:03,566 - root - INFO - Saving points outside of r
+2020-10-24 12:09:41,087 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 12:09:41,088 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 12:09:41,088 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 12:09:41,088 - root - INFO - Dataset: ADbaemin
+2020-10-24 12:09:41,088 - root - INFO - Normal class: 0
+2020-10-24 12:09:41,088 - root - INFO - Network: baeminNet
+2020-10-24 12:09:41,088 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 12:09:41,088 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 12:09:41,123 - root - INFO - Computation device: cuda
+2020-10-24 12:09:41,123 - root - INFO - Number of dataloader workers: 0
+2020-10-24 12:09:41,919 - root - INFO - Pretraining: False
+2020-10-24 12:09:41,919 - root - INFO - Training optimizer: adam
+2020-10-24 12:09:41,919 - root - INFO - Training learning rate: 0.001
+2020-10-24 12:09:41,919 - root - INFO - Training epochs: 1
+2020-10-24 12:09:41,919 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 12:09:41,919 - root - INFO - Training batch size: 128
+2020-10-24 12:09:41,920 - root - INFO - Training weight decay: 1e-06
+2020-10-24 12:09:43,299 - root - INFO - Initializing center c...
+2020-10-24 12:10:00,349 - root - INFO - Center c initialized.
+2020-10-24 12:10:00,350 - root - INFO - Starting training...
+2020-10-24 12:10:19,152 - root - INFO -   Epoch 1/1	 Time: 18.802	 Loss: 144.86542060
+2020-10-24 12:10:19,153 - root - INFO - Training time: 18.803
+2020-10-24 12:10:19,153 - root - INFO - Finished training.
+2020-10-24 12:10:19,153 - root - INFO - Saving points outside of r
+2020-10-24 12:18:26,541 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 12:18:26,542 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 12:18:26,542 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 12:18:26,542 - root - INFO - Dataset: ADbaemin
+2020-10-24 12:18:26,542 - root - INFO - Normal class: 0
+2020-10-24 12:18:26,542 - root - INFO - Network: baeminNet
+2020-10-24 12:18:26,542 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 12:18:26,542 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 12:18:26,576 - root - INFO - Computation device: cuda
+2020-10-24 12:18:26,576 - root - INFO - Number of dataloader workers: 0
+2020-10-24 12:18:27,393 - root - INFO - Pretraining: False
+2020-10-24 12:18:27,393 - root - INFO - Training optimizer: adam
+2020-10-24 12:18:27,393 - root - INFO - Training learning rate: 0.001
+2020-10-24 12:18:27,393 - root - INFO - Training epochs: 1
+2020-10-24 12:18:27,393 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 12:18:27,393 - root - INFO - Training batch size: 128
+2020-10-24 12:18:27,393 - root - INFO - Training weight decay: 1e-06
+2020-10-24 12:18:28,753 - root - INFO - Initializing center c...
+2020-10-24 12:18:45,524 - root - INFO - Center c initialized.
+2020-10-24 12:18:45,524 - root - INFO - Starting training...
+2020-10-24 12:19:04,023 - root - INFO -   Epoch 1/1	 Time: 18.498	 Loss: 144.34944293
+2020-10-24 12:19:04,023 - root - INFO - Training time: 18.498
+2020-10-24 12:19:04,023 - root - INFO - Finished training.
+2020-10-24 12:19:04,023 - root - INFO - Saving points outside of r
+2020-10-24 12:21:14,006 - root - INFO - Starting testing...
+2020-10-24 12:21:23,466 - root - INFO - Testing time: 9.460
+2020-10-24 12:21:23,552 - root - INFO - Test set AUC: 85.62%
+2020-10-24 12:21:23,552 - root - INFO - Finished testing.
+2020-10-24 12:59:36,094 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 12:59:36,094 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 12:59:36,094 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 12:59:36,094 - root - INFO - Dataset: ADbaemin
+2020-10-24 12:59:36,094 - root - INFO - Normal class: 0
+2020-10-24 12:59:36,094 - root - INFO - Network: baeminNet
+2020-10-24 12:59:36,094 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 12:59:36,095 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 12:59:36,129 - root - INFO - Computation device: cuda
+2020-10-24 12:59:36,129 - root - INFO - Number of dataloader workers: 0
+2020-10-24 12:59:36,950 - root - INFO - Pretraining: False
+2020-10-24 12:59:36,950 - root - INFO - Training optimizer: adam
+2020-10-24 12:59:36,951 - root - INFO - Training learning rate: 0.001
+2020-10-24 12:59:36,951 - root - INFO - Training epochs: 5
+2020-10-24 12:59:36,951 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 12:59:36,951 - root - INFO - Training batch size: 128
+2020-10-24 12:59:36,951 - root - INFO - Training weight decay: 1e-06
+2020-10-24 12:59:38,295 - root - INFO - Initializing center c...
+2020-10-24 12:59:55,237 - root - INFO - Center c initialized.
+2020-10-24 12:59:55,237 - root - INFO - Starting training...
+2020-10-24 13:00:13,914 - root - INFO -   Epoch 1/5	 Time: 18.677	 Loss: 145.38042809
+2020-10-24 13:00:32,652 - root - INFO -   Epoch 2/5	 Time: 18.738	 Loss: 57.28990961
+2020-10-24 13:00:51,289 - root - INFO -   Epoch 3/5	 Time: 18.636	 Loss: 20.51139045
+2020-10-24 13:01:09,774 - root - INFO -   Epoch 4/5	 Time: 18.485	 Loss: 5.73079285
+2020-10-24 13:01:28,460 - root - INFO -   Epoch 5/5	 Time: 18.686	 Loss: 1.16495507
+2020-10-24 13:01:28,461 - root - INFO - Training time: 93.223
+2020-10-24 13:01:28,461 - root - INFO - Finished training.
+2020-10-24 13:01:28,461 - root - INFO - Saving points outside of r
+2020-10-24 13:02:43,979 - root - INFO - Starting testing...
+2020-10-24 13:02:53,603 - root - INFO - Testing time: 9.625
+2020-10-24 13:02:53,685 - root - INFO - Test set AUC: 82.48%
+2020-10-24 13:02:53,685 - root - INFO - Finished testing.
+2020-10-24 13:05:45,960 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 13:05:45,960 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 13:05:45,960 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 13:05:45,960 - root - INFO - Dataset: ADbaemin
+2020-10-24 13:05:45,960 - root - INFO - Normal class: 0
+2020-10-24 13:05:45,960 - root - INFO - Network: baeminNet
+2020-10-24 13:05:45,960 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 13:05:45,960 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 13:05:45,997 - root - INFO - Computation device: cuda
+2020-10-24 13:05:45,997 - root - INFO - Number of dataloader workers: 0
+2020-10-24 13:05:46,784 - root - INFO - Pretraining: False
+2020-10-24 13:05:46,785 - root - INFO - Training optimizer: adam
+2020-10-24 13:05:46,785 - root - INFO - Training learning rate: 0.001
+2020-10-24 13:05:46,785 - root - INFO - Training epochs: 5
+2020-10-24 13:05:46,785 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 13:05:46,785 - root - INFO - Training batch size: 128
+2020-10-24 13:05:46,785 - root - INFO - Training weight decay: 1e-06
+2020-10-24 13:05:48,130 - root - INFO - Initializing center c...
+2020-10-24 13:06:04,679 - root - INFO - Center c initialized.
+2020-10-24 13:06:04,679 - root - INFO - Starting training...
+2020-10-24 13:06:23,209 - root - INFO -   Epoch 1/5	 Time: 18.530	 Loss: 143.70870779
+2020-10-24 13:06:41,798 - root - INFO -   Epoch 2/5	 Time: 18.587	 Loss: 56.30138109
+2020-10-24 13:07:00,124 - root - INFO -   Epoch 3/5	 Time: 18.324	 Loss: 19.88448586
+2020-10-24 13:07:18,660 - root - INFO -   Epoch 4/5	 Time: 18.534	 Loss: 5.46004563
+2020-10-24 13:07:37,038 - root - INFO -   Epoch 5/5	 Time: 18.378	 Loss: 1.07933257
+2020-10-24 13:07:37,039 - root - INFO - Training time: 92.360
+2020-10-24 13:07:37,039 - root - INFO - Finished training.
+2020-10-24 13:07:37,039 - root - INFO - Saving points outside of r
+2020-10-24 13:08:52,044 - root - INFO - Starting testing...
+2020-10-24 13:09:01,973 - root - INFO - Testing time: 9.930
+2020-10-24 13:09:02,056 - root - INFO - Test set AUC: 86.19%
+2020-10-24 13:09:02,056 - root - INFO - Finished testing.
+2020-10-24 13:10:06,930 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 13:10:06,930 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 13:10:06,930 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 13:10:06,930 - root - INFO - Dataset: ADbaemin
+2020-10-24 13:10:06,930 - root - INFO - Normal class: 0
+2020-10-24 13:10:06,930 - root - INFO - Network: baeminNet
+2020-10-24 13:10:06,930 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 13:10:06,931 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 13:10:06,965 - root - INFO - Computation device: cuda
+2020-10-24 13:10:06,965 - root - INFO - Number of dataloader workers: 0
+2020-10-24 13:10:07,755 - root - INFO - Pretraining: False
+2020-10-24 13:10:07,756 - root - INFO - Training optimizer: adam
+2020-10-24 13:10:07,756 - root - INFO - Training learning rate: 0.001
+2020-10-24 13:10:07,756 - root - INFO - Training epochs: 5
+2020-10-24 13:10:07,756 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 13:10:07,756 - root - INFO - Training batch size: 128
+2020-10-24 13:10:07,756 - root - INFO - Training weight decay: 1e-06
+2020-10-24 13:10:09,134 - root - INFO - Initializing center c...
+2020-10-24 13:10:25,904 - root - INFO - Center c initialized.
+2020-10-24 13:10:25,904 - root - INFO - Starting training...
+2020-10-24 13:10:44,522 - root - INFO -   Epoch 1/5	 Time: 18.617	 Loss: 145.13031604
+2020-10-24 13:11:03,030 - root - INFO -   Epoch 2/5	 Time: 18.507	 Loss: 57.01472250
+2020-10-24 13:11:21,556 - root - INFO -   Epoch 3/5	 Time: 18.525	 Loss: 20.57254579
+2020-10-24 13:11:40,120 - root - INFO -   Epoch 4/5	 Time: 18.562	 Loss: 5.78359726
+2020-10-24 13:11:58,584 - root - INFO -   Epoch 5/5	 Time: 18.463	 Loss: 1.16971711
+2020-10-24 13:11:58,584 - root - INFO - Training time: 92.681
+2020-10-24 13:11:58,584 - root - INFO - Finished training.
+2020-10-24 13:11:58,585 - root - INFO - Saving points outside of r
+2020-10-24 13:13:14,985 - root - INFO - Starting testing...
+2020-10-24 13:13:24,544 - root - INFO - Testing time: 9.559
+2020-10-24 13:13:24,628 - root - INFO - Test set AUC: 90.22%
+2020-10-24 13:13:24,628 - root - INFO - Finished testing.
+2020-10-24 14:47:12,814 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 14:47:12,814 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 14:47:12,814 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 14:47:12,814 - root - INFO - Dataset: ADbaemin
+2020-10-24 14:47:12,815 - root - INFO - Normal class: 0
+2020-10-24 14:47:12,815 - root - INFO - Network: baeminNet
+2020-10-24 14:47:12,815 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 14:47:12,815 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 14:47:12,849 - root - INFO - Computation device: cuda
+2020-10-24 14:47:12,849 - root - INFO - Number of dataloader workers: 0
+2020-10-24 14:47:13,681 - root - INFO - Pretraining: False
+2020-10-24 14:47:13,681 - root - INFO - Training optimizer: adam
+2020-10-24 14:47:13,681 - root - INFO - Training learning rate: 0.001
+2020-10-24 14:47:13,681 - root - INFO - Training epochs: 5
+2020-10-24 14:47:13,681 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 14:47:13,681 - root - INFO - Training batch size: 128
+2020-10-24 14:47:13,681 - root - INFO - Training weight decay: 1e-06
+2020-10-24 14:47:15,031 - root - INFO - Initializing center c...
+2020-10-24 14:47:31,827 - root - INFO - Center c initialized.
+2020-10-24 14:47:31,827 - root - INFO - Starting training...
+2020-10-24 14:47:50,578 - root - INFO -   Epoch 1/5	 Time: 18.750	 Loss: 143.35712634
+2020-10-24 14:48:09,016 - root - INFO -   Epoch 2/5	 Time: 18.437	 Loss: 56.18854050
+2020-10-24 14:48:27,620 - root - INFO -   Epoch 3/5	 Time: 18.603	 Loss: 20.00567147
+2020-10-24 14:48:46,380 - root - INFO -   Epoch 4/5	 Time: 18.759	 Loss: 5.51627019
+2020-10-24 14:49:04,824 - root - INFO -   Epoch 5/5	 Time: 18.442	 Loss: 1.08916818
+2020-10-24 14:49:04,824 - root - INFO - Training time: 92.997
+2020-10-24 14:49:04,824 - root - INFO - Finished training.
+2020-10-24 14:49:04,825 - root - INFO - Saving points outside of r
+2020-10-24 14:50:20,342 - root - INFO - Starting testing...
+2020-10-24 14:50:29,920 - root - INFO - Testing time: 9.578
+2020-10-24 14:50:30,001 - root - INFO - Test set AUC: 83.06%
+2020-10-24 14:50:30,002 - root - INFO - Finished testing.
+2020-10-24 14:51:24,354 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 14:51:24,354 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 14:51:24,354 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 14:51:24,354 - root - INFO - Dataset: ADbaemin
+2020-10-24 14:51:24,354 - root - INFO - Normal class: 0
+2020-10-24 14:51:24,354 - root - INFO - Network: baeminNet
+2020-10-24 14:51:24,354 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 14:51:24,355 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 14:51:24,390 - root - INFO - Computation device: cuda
+2020-10-24 14:51:24,390 - root - INFO - Number of dataloader workers: 0
+2020-10-24 14:51:25,178 - root - INFO - Pretraining: False
+2020-10-24 14:51:25,178 - root - INFO - Training optimizer: adam
+2020-10-24 14:51:25,178 - root - INFO - Training learning rate: 0.001
+2020-10-24 14:51:25,178 - root - INFO - Training epochs: 5
+2020-10-24 14:51:25,178 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 14:51:25,178 - root - INFO - Training batch size: 128
+2020-10-24 14:51:25,178 - root - INFO - Training weight decay: 1e-06
+2020-10-24 14:51:26,553 - root - INFO - Initializing center c...
+2020-10-24 14:51:42,997 - root - INFO - Center c initialized.
+2020-10-24 14:51:42,998 - root - INFO - Starting training...
+2020-10-24 14:52:01,532 - root - INFO -   Epoch 1/5	 Time: 18.534	 Loss: 143.78078154
+2020-10-24 14:52:19,984 - root - INFO -   Epoch 2/5	 Time: 18.450	 Loss: 56.19831285
+2020-10-24 14:52:38,639 - root - INFO -   Epoch 3/5	 Time: 18.654	 Loss: 20.12382411
+2020-10-24 14:52:57,137 - root - INFO -   Epoch 4/5	 Time: 18.496	 Loss: 5.55355093
+2020-10-24 14:53:15,777 - root - INFO -   Epoch 5/5	 Time: 18.639	 Loss: 1.11386994
+2020-10-24 14:53:15,778 - root - INFO - Training time: 92.780
+2020-10-24 14:53:15,778 - root - INFO - Finished training.
+2020-10-24 14:53:15,778 - root - INFO - Saving points outside of r
+2020-10-24 14:54:31,399 - root - INFO - Starting testing...
+2020-10-24 14:54:41,168 - root - INFO - Testing time: 9.769
+2020-10-24 14:54:41,257 - root - INFO - Test set AUC: 93.15%
+2020-10-24 14:54:41,257 - root - INFO - Finished testing.
+2020-10-24 14:59:04,744 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 14:59:04,744 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 14:59:04,744 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 14:59:04,744 - root - INFO - Dataset: ADbaemin
+2020-10-24 14:59:04,744 - root - INFO - Normal class: 0
+2020-10-24 14:59:04,744 - root - INFO - Network: baeminNet
+2020-10-24 14:59:04,744 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 14:59:04,744 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 14:59:04,779 - root - INFO - Computation device: cuda
+2020-10-24 14:59:04,779 - root - INFO - Number of dataloader workers: 0
+2020-10-24 14:59:05,586 - root - INFO - Pretraining: False
+2020-10-24 14:59:05,586 - root - INFO - Training optimizer: adam
+2020-10-24 14:59:05,586 - root - INFO - Training learning rate: 0.001
+2020-10-24 14:59:05,586 - root - INFO - Training epochs: 5
+2020-10-24 14:59:05,586 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 14:59:05,586 - root - INFO - Training batch size: 128
+2020-10-24 14:59:05,586 - root - INFO - Training weight decay: 1e-06
+2020-10-24 14:59:06,926 - root - INFO - Initializing center c...
+2020-10-24 14:59:24,236 - root - INFO - Center c initialized.
+2020-10-24 14:59:24,237 - root - INFO - Starting training...
+2020-10-24 14:59:43,098 - root - INFO -   Epoch 1/5	 Time: 18.860	 Loss: 145.30783705
+2020-10-24 15:00:01,846 - root - INFO -   Epoch 2/5	 Time: 18.747	 Loss: 57.03564370
+2020-10-24 15:00:20,588 - root - INFO -   Epoch 3/5	 Time: 18.741	 Loss: 20.65785348
+2020-10-24 15:00:39,572 - root - INFO -   Epoch 4/5	 Time: 18.982	 Loss: 5.77590798
+2020-10-24 15:00:58,622 - root - INFO -   Epoch 5/5	 Time: 19.049	 Loss: 1.16493871
+2020-10-24 15:00:58,622 - root - INFO - Training time: 94.385
+2020-10-24 15:00:58,622 - root - INFO - Finished training.
+2020-10-24 15:00:58,622 - root - INFO - Saving points outside of r
+2020-10-24 15:20:55,281 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 15:20:55,281 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 15:20:55,281 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 15:20:55,281 - root - INFO - Dataset: ADbaemin
+2020-10-24 15:20:55,281 - root - INFO - Normal class: 0
+2020-10-24 15:20:55,281 - root - INFO - Network: baeminNet
+2020-10-24 15:20:55,281 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 15:20:55,281 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 15:20:55,316 - root - INFO - Computation device: cuda
+2020-10-24 15:20:55,316 - root - INFO - Number of dataloader workers: 0
+2020-10-24 15:20:56,142 - root - INFO - Pretraining: False
+2020-10-24 15:20:56,142 - root - INFO - Training optimizer: adam
+2020-10-24 15:20:56,142 - root - INFO - Training learning rate: 0.001
+2020-10-24 15:20:56,142 - root - INFO - Training epochs: 5
+2020-10-24 15:20:56,142 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 15:20:56,142 - root - INFO - Training batch size: 128
+2020-10-24 15:20:56,142 - root - INFO - Training weight decay: 1e-06
+2020-10-24 15:20:57,489 - root - INFO - Initializing center c...
+2020-10-24 15:21:14,072 - root - INFO - Center c initialized.
+2020-10-24 15:21:14,072 - root - INFO - Starting training...
+2020-10-24 15:21:32,588 - root - INFO -   Epoch 1/5	 Time: 18.515	 Loss: 146.13161358
+2020-10-24 15:21:50,961 - root - INFO -   Epoch 2/5	 Time: 18.372	 Loss: 57.45890541
+2020-10-24 15:22:09,433 - root - INFO -   Epoch 3/5	 Time: 18.470	 Loss: 20.71878137
+2020-10-24 15:22:28,078 - root - INFO -   Epoch 4/5	 Time: 18.644	 Loss: 5.76096882
+2020-10-24 15:22:46,412 - root - INFO -   Epoch 5/5	 Time: 18.333	 Loss: 1.16250579
+2020-10-24 15:22:46,412 - root - INFO - Training time: 92.340
+2020-10-24 15:22:46,412 - root - INFO - Finished training.
+2020-10-24 15:22:46,413 - root - INFO - Saving points outside of r
+2020-10-24 15:46:11,901 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 15:46:11,901 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 15:46:11,901 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 15:46:11,902 - root - INFO - Dataset: ADbaemin
+2020-10-24 15:46:11,902 - root - INFO - Normal class: 0
+2020-10-24 15:46:11,902 - root - INFO - Network: baeminNet
+2020-10-24 15:46:11,902 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 15:46:11,902 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 15:46:11,936 - root - INFO - Computation device: cuda
+2020-10-24 15:46:11,936 - root - INFO - Number of dataloader workers: 0
+2020-10-24 15:46:12,752 - root - INFO - Pretraining: False
+2020-10-24 15:46:12,753 - root - INFO - Training optimizer: adam
+2020-10-24 15:46:12,753 - root - INFO - Training learning rate: 0.001
+2020-10-24 15:46:12,753 - root - INFO - Training epochs: 5
+2020-10-24 15:46:12,753 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 15:46:12,753 - root - INFO - Training batch size: 128
+2020-10-24 15:46:12,753 - root - INFO - Training weight decay: 1e-06
+2020-10-24 15:46:14,109 - root - INFO - Initializing center c...
+2020-10-24 15:46:31,411 - root - INFO - Center c initialized.
+2020-10-24 15:46:31,412 - root - INFO - Starting training...
+2020-10-24 15:46:50,299 - root - INFO -   Epoch 1/5	 Time: 18.886	 Loss: 145.18951941
+2020-10-24 15:47:09,145 - root - INFO -   Epoch 2/5	 Time: 18.845	 Loss: 56.37811836
+2020-10-24 15:47:27,920 - root - INFO -   Epoch 3/5	 Time: 18.773	 Loss: 20.07427949
+2020-10-24 15:47:46,744 - root - INFO -   Epoch 4/5	 Time: 18.823	 Loss: 5.58650760
+2020-10-24 15:48:05,493 - root - INFO -   Epoch 5/5	 Time: 18.748	 Loss: 1.12252547
+2020-10-24 15:48:05,493 - root - INFO - Training time: 94.081
+2020-10-24 15:48:05,493 - root - INFO - Finished training.
+2020-10-24 15:48:05,493 - root - INFO - Saving points outside of r
+2020-10-24 15:51:12,712 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 15:51:12,713 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 15:51:12,713 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 15:51:12,713 - root - INFO - Dataset: ADbaemin
+2020-10-24 15:51:12,713 - root - INFO - Normal class: 0
+2020-10-24 15:51:12,713 - root - INFO - Network: baeminNet
+2020-10-24 15:51:12,713 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 15:51:12,713 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 15:51:12,747 - root - INFO - Computation device: cuda
+2020-10-24 15:51:12,747 - root - INFO - Number of dataloader workers: 0
+2020-10-24 15:51:13,532 - root - INFO - Pretraining: False
+2020-10-24 15:51:13,532 - root - INFO - Training optimizer: adam
+2020-10-24 15:51:13,533 - root - INFO - Training learning rate: 0.001
+2020-10-24 15:51:13,533 - root - INFO - Training epochs: 5
+2020-10-24 15:51:13,533 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 15:51:13,533 - root - INFO - Training batch size: 128
+2020-10-24 15:51:13,533 - root - INFO - Training weight decay: 1e-06
+2020-10-24 15:51:14,880 - root - INFO - Initializing center c...
+2020-10-24 15:51:31,365 - root - INFO - Center c initialized.
+2020-10-24 15:51:31,365 - root - INFO - Starting training...
+2020-10-24 15:51:49,796 - root - INFO -   Epoch 1/5	 Time: 18.429	 Loss: 144.68547720
+2020-10-24 15:52:08,158 - root - INFO -   Epoch 2/5	 Time: 18.361	 Loss: 56.71210007
+2020-10-24 15:52:26,638 - root - INFO -   Epoch 3/5	 Time: 18.479	 Loss: 20.46092225
+2020-10-24 15:52:45,264 - root - INFO -   Epoch 4/5	 Time: 18.624	 Loss: 5.70248224
+2020-10-24 15:53:03,810 - root - INFO -   Epoch 5/5	 Time: 18.545	 Loss: 1.14556341
+2020-10-24 15:53:03,811 - root - INFO - Training time: 92.445
+2020-10-24 15:53:03,811 - root - INFO - Finished training.
+2020-10-24 15:53:03,811 - root - INFO - Saving points outside of r
+2020-10-24 15:56:22,435 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 15:56:22,435 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 15:56:22,435 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 15:56:22,435 - root - INFO - Dataset: ADbaemin
+2020-10-24 15:56:22,435 - root - INFO - Normal class: 0
+2020-10-24 15:56:22,435 - root - INFO - Network: baeminNet
+2020-10-24 15:56:22,436 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 15:56:22,436 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 15:56:22,481 - root - INFO - Computation device: cuda
+2020-10-24 15:56:22,481 - root - INFO - Number of dataloader workers: 0
+2020-10-24 15:56:23,299 - root - INFO - Pretraining: False
+2020-10-24 15:56:23,300 - root - INFO - Training optimizer: adam
+2020-10-24 15:56:23,300 - root - INFO - Training learning rate: 0.001
+2020-10-24 15:56:23,300 - root - INFO - Training epochs: 5
+2020-10-24 15:56:23,300 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 15:56:23,300 - root - INFO - Training batch size: 128
+2020-10-24 15:56:23,300 - root - INFO - Training weight decay: 1e-06
+2020-10-24 15:56:24,671 - root - INFO - Initializing center c...
+2020-10-24 15:56:40,979 - root - INFO - Center c initialized.
+2020-10-24 15:56:40,980 - root - INFO - Starting training...
+2020-10-24 15:56:59,242 - root - INFO -   Epoch 1/5	 Time: 18.262	 Loss: 145.39992069
+2020-10-24 15:57:17,580 - root - INFO -   Epoch 2/5	 Time: 18.337	 Loss: 57.03770200
+2020-10-24 15:57:35,820 - root - INFO -   Epoch 3/5	 Time: 18.238	 Loss: 20.45168121
+2020-10-24 15:57:54,174 - root - INFO -   Epoch 4/5	 Time: 18.353	 Loss: 5.73328637
+2020-10-24 15:58:12,641 - root - INFO -   Epoch 5/5	 Time: 18.465	 Loss: 1.16096022
+2020-10-24 15:58:12,641 - root - INFO - Training time: 91.661
+2020-10-24 15:58:12,641 - root - INFO - Finished training.
+2020-10-24 15:58:12,641 - root - INFO - Saving points outside of r
+2020-10-24 15:59:26,962 - root - INFO - Starting testing...
+2020-10-24 15:59:36,467 - root - INFO - Testing time: 9.504
+2020-10-24 15:59:36,548 - root - INFO - Test set AUC: 74.22%
+2020-10-24 15:59:36,548 - root - INFO - Finished testing.
+2020-10-24 16:01:40,241 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 16:01:40,241 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 16:01:40,241 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 16:01:40,241 - root - INFO - Dataset: ADbaemin
+2020-10-24 16:01:40,241 - root - INFO - Normal class: 0
+2020-10-24 16:01:40,241 - root - INFO - Network: baeminNet
+2020-10-24 16:01:40,241 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 16:01:40,241 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 16:01:40,275 - root - INFO - Computation device: cuda
+2020-10-24 16:01:40,275 - root - INFO - Number of dataloader workers: 0
+2020-10-24 16:01:41,066 - root - INFO - Pretraining: False
+2020-10-24 16:01:41,066 - root - INFO - Training optimizer: adam
+2020-10-24 16:01:41,066 - root - INFO - Training learning rate: 0.001
+2020-10-24 16:01:41,066 - root - INFO - Training epochs: 5
+2020-10-24 16:01:41,066 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 16:01:41,066 - root - INFO - Training batch size: 128
+2020-10-24 16:01:41,066 - root - INFO - Training weight decay: 1e-06
+2020-10-24 16:01:42,406 - root - INFO - Initializing center c...
+2020-10-24 16:01:59,136 - root - INFO - Center c initialized.
+2020-10-24 16:01:59,136 - root - INFO - Starting training...
+2020-10-24 16:02:17,750 - root - INFO -   Epoch 1/5	 Time: 18.613	 Loss: 145.53005949
+2020-10-24 16:02:36,450 - root - INFO -   Epoch 2/5	 Time: 18.699	 Loss: 57.03366216
+2020-10-24 16:02:55,104 - root - INFO -   Epoch 3/5	 Time: 18.652	 Loss: 20.54905444
+2020-10-24 16:03:13,717 - root - INFO -   Epoch 4/5	 Time: 18.612	 Loss: 5.78156447
+2020-10-24 16:03:32,403 - root - INFO -   Epoch 5/5	 Time: 18.685	 Loss: 1.18234406
+2020-10-24 16:03:32,403 - root - INFO - Training time: 93.267
+2020-10-24 16:03:32,403 - root - INFO - Finished training.
+2020-10-24 16:03:32,403 - root - INFO - Saving points outside of r
+2020-10-24 16:04:47,969 - root - INFO - Starting testing...
+2020-10-24 16:04:57,601 - root - INFO - Testing time: 9.631
+2020-10-24 16:04:57,685 - root - INFO - Test set AUC: 81.99%
+2020-10-24 16:04:57,685 - root - INFO - Finished testing.
+2020-10-24 16:05:51,094 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 16:05:51,095 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 16:05:51,095 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 16:05:51,095 - root - INFO - Dataset: ADbaemin
+2020-10-24 16:05:51,095 - root - INFO - Normal class: 0
+2020-10-24 16:05:51,095 - root - INFO - Network: baeminNet
+2020-10-24 16:05:51,095 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 16:05:51,095 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 16:05:51,150 - root - INFO - Computation device: cuda
+2020-10-24 16:05:51,150 - root - INFO - Number of dataloader workers: 0
+2020-10-24 16:05:51,977 - root - INFO - Pretraining: False
+2020-10-24 16:05:51,977 - root - INFO - Training optimizer: adam
+2020-10-24 16:05:51,977 - root - INFO - Training learning rate: 0.001
+2020-10-24 16:05:51,977 - root - INFO - Training epochs: 5
+2020-10-24 16:05:51,977 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 16:05:51,978 - root - INFO - Training batch size: 128
+2020-10-24 16:05:51,978 - root - INFO - Training weight decay: 1e-06
+2020-10-24 16:05:53,334 - root - INFO - Initializing center c...
+2020-10-24 16:06:10,042 - root - INFO - Center c initialized.
+2020-10-24 16:06:10,042 - root - INFO - Starting training...
+2020-10-24 16:06:28,566 - root - INFO -   Epoch 1/5	 Time: 18.523	 Loss: 144.38124927
+2020-10-24 16:06:47,324 - root - INFO -   Epoch 2/5	 Time: 18.757	 Loss: 56.66784353
+2020-10-24 16:07:05,920 - root - INFO -   Epoch 3/5	 Time: 18.595	 Loss: 20.11407851
+2020-10-24 16:07:24,587 - root - INFO -   Epoch 4/5	 Time: 18.665	 Loss: 5.53243549
+2020-10-24 16:07:43,221 - root - INFO -   Epoch 5/5	 Time: 18.633	 Loss: 1.09463372
+2020-10-24 16:07:43,221 - root - INFO - Training time: 93.179
+2020-10-24 16:07:43,221 - root - INFO - Finished training.
+2020-10-24 16:07:43,221 - root - INFO - Saving points outside of r
+2020-10-24 16:09:55,529 - root - INFO - Log file is Desktop/workspace/Deep SVDD/results/adinsight/log.txt.
+2020-10-24 16:09:55,529 - root - INFO - Data path is Desktop/workspace/.
+2020-10-24 16:09:55,529 - root - INFO - Export path is Desktop/workspace/Deep SVDD/results/adinsight.
+2020-10-24 16:09:55,529 - root - INFO - Dataset: ADbaemin
+2020-10-24 16:09:55,530 - root - INFO - Normal class: 0
+2020-10-24 16:09:55,530 - root - INFO - Network: baeminNet
+2020-10-24 16:09:55,530 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-24 16:09:55,530 - root - INFO - Nu-paramerter: 0.10
+2020-10-24 16:09:55,563 - root - INFO - Computation device: cuda
+2020-10-24 16:09:55,563 - root - INFO - Number of dataloader workers: 0
+2020-10-24 16:09:56,363 - root - INFO - Pretraining: False
+2020-10-24 16:09:56,363 - root - INFO - Training optimizer: adam
+2020-10-24 16:09:56,363 - root - INFO - Training learning rate: 0.001
+2020-10-24 16:09:56,363 - root - INFO - Training epochs: 5
+2020-10-24 16:09:56,364 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-24 16:09:56,364 - root - INFO - Training batch size: 128
+2020-10-24 16:09:56,364 - root - INFO - Training weight decay: 1e-06
+2020-10-24 16:09:57,708 - root - INFO - Initializing center c...
+2020-10-24 16:10:14,466 - root - INFO - Center c initialized.
+2020-10-24 16:10:14,466 - root - INFO - Starting training...
+2020-10-24 16:10:33,177 - root - INFO -   Epoch 1/5	 Time: 18.710	 Loss: 146.12200529
+2020-10-24 16:10:51,335 - root - INFO -   Epoch 2/5	 Time: 18.157	 Loss: 57.87641776
+2020-10-24 16:11:09,402 - root - INFO -   Epoch 3/5	 Time: 18.066	 Loss: 21.00356965
+2020-10-24 16:11:27,165 - root - INFO -   Epoch 4/5	 Time: 17.762	 Loss: 5.93819789
+2020-10-24 16:11:45,079 - root - INFO -   Epoch 5/5	 Time: 17.913	 Loss: 1.21704184
+2020-10-24 16:11:45,080 - root - INFO - Training time: 90.614
+2020-10-24 16:11:45,080 - root - INFO - Finished training.
+2020-10-24 16:11:45,080 - root - INFO - Saving points outside of r
+2020-10-24 16:12:56,350 - root - INFO - Starting testing...
+2020-10-24 16:13:05,769 - root - INFO - Testing time: 9.419
+2020-10-24 16:13:05,851 - root - INFO - Test set AUC: 74.75%
+2020-10-24 16:13:05,851 - root - INFO - Finished testing.
+2020-10-26 10:36:01,351 - root - INFO - Log file is Deep SVDD/results/adinsight/log.txt.
+2020-10-26 10:36:01,360 - root - INFO - Data path is Final_data/.
+2020-10-26 10:36:01,360 - root - INFO - Export path is Deep SVDD/results/adinsight.
+2020-10-26 10:36:01,360 - root - INFO - Dataset: ADbaemin
+2020-10-26 10:36:01,360 - root - INFO - Normal class: 0
+2020-10-26 10:36:01,360 - root - INFO - Network: baeminNet
+2020-10-26 10:36:01,360 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-26 10:36:01,360 - root - INFO - Nu-paramerter: 0.10
+2020-10-26 10:36:01,394 - root - INFO - Computation device: cuda
+2020-10-26 10:36:01,395 - root - INFO - Number of dataloader workers: 0
+2020-10-26 10:36:02,199 - root - INFO - Pretraining: False
+2020-10-26 10:36:02,200 - root - INFO - Training optimizer: adam
+2020-10-26 10:36:02,200 - root - INFO - Training learning rate: 0.001
+2020-10-26 10:36:02,200 - root - INFO - Training epochs: 5
+2020-10-26 10:36:02,200 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-26 10:36:02,200 - root - INFO - Training batch size: 128
+2020-10-26 10:36:02,200 - root - INFO - Training weight decay: 1e-06
+2020-10-26 10:36:03,513 - root - INFO - Initializing center c...
+2020-10-26 10:36:20,057 - root - INFO - Center c initialized.
+2020-10-26 10:36:20,057 - root - INFO - Starting training...
+2020-10-26 10:36:38,484 - root - INFO -   Epoch 1/5	 Time: 18.426	 Loss: 145.17209091
+2020-10-26 10:36:56,941 - root - INFO -   Epoch 2/5	 Time: 18.456	 Loss: 56.67084380
+2020-10-26 10:37:15,672 - root - INFO -   Epoch 3/5	 Time: 18.729	 Loss: 20.31109696
+2020-10-26 10:37:34,582 - root - INFO -   Epoch 4/5	 Time: 18.909	 Loss: 5.66423435
+2020-10-26 10:37:53,059 - root - INFO -   Epoch 5/5	 Time: 18.475	 Loss: 1.14381609
+2020-10-26 10:37:53,059 - root - INFO - Training time: 93.002
+2020-10-26 10:37:53,059 - root - INFO - Finished training.
+2020-10-26 10:37:53,059 - root - INFO - Saving points outside of r
+2020-10-26 10:46:12,760 - root - INFO - Log file is Deep SVDD/results/adinsight/log.txt.
+2020-10-26 10:46:12,761 - root - INFO - Data path is Final_data/.
+2020-10-26 10:46:12,761 - root - INFO - Export path is Deep SVDD/results/adinsight.
+2020-10-26 10:46:12,761 - root - INFO - Dataset: ADbaemin
+2020-10-26 10:46:12,761 - root - INFO - Normal class: 0
+2020-10-26 10:46:12,761 - root - INFO - Network: baeminNet
+2020-10-26 10:46:12,761 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-26 10:46:12,761 - root - INFO - Nu-paramerter: 0.10
+2020-10-26 10:46:12,796 - root - INFO - Computation device: cuda
+2020-10-26 10:46:12,797 - root - INFO - Number of dataloader workers: 0
+2020-10-26 10:46:13,594 - root - INFO - Pretraining: False
+2020-10-26 10:46:13,594 - root - INFO - Training optimizer: adam
+2020-10-26 10:46:13,594 - root - INFO - Training learning rate: 0.001
+2020-10-26 10:46:13,594 - root - INFO - Training epochs: 5
+2020-10-26 10:46:13,594 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-26 10:46:13,594 - root - INFO - Training batch size: 128
+2020-10-26 10:46:13,594 - root - INFO - Training weight decay: 1e-06
+2020-10-26 10:46:14,910 - root - INFO - Initializing center c...
+2020-10-26 10:46:31,532 - root - INFO - Center c initialized.
+2020-10-26 10:46:31,532 - root - INFO - Starting training...
+2020-10-26 10:46:50,021 - root - INFO -   Epoch 1/5	 Time: 18.488	 Loss: 145.45682500
+2020-10-26 10:47:08,470 - root - INFO -   Epoch 2/5	 Time: 18.448	 Loss: 56.82287529
+2020-10-26 10:47:27,071 - root - INFO -   Epoch 3/5	 Time: 18.600	 Loss: 20.44694864
+2020-10-26 10:47:45,577 - root - INFO -   Epoch 4/5	 Time: 18.505	 Loss: 5.72594495
+2020-10-26 10:48:03,992 - root - INFO -   Epoch 5/5	 Time: 18.414	 Loss: 1.14783786
+2020-10-26 10:48:03,993 - root - INFO - Training time: 92.460
+2020-10-26 10:48:03,993 - root - INFO - Finished training.
+2020-10-26 10:48:03,993 - root - INFO - Saving points outside of r
+2020-10-26 10:49:19,906 - root - INFO - Starting testing...
+2020-10-26 10:49:29,632 - root - INFO - Testing time: 9.725
+2020-10-26 10:49:30,118 - root - INFO - Test set AUC: 93.18%
+2020-10-26 10:49:30,118 - root - INFO - Finished testing.
+2020-10-26 11:23:49,369 - root - INFO - Log file is Deep SVDD/results/adinsight/log.txt.
+2020-10-26 11:23:49,369 - root - INFO - Data path is Final_data/.
+2020-10-26 11:23:49,369 - root - INFO - Export path is Deep SVDD/results/adinsight.
+2020-10-26 11:23:49,370 - root - INFO - Dataset: ADbaemin
+2020-10-26 11:23:49,370 - root - INFO - Normal class: 0
+2020-10-26 11:23:49,370 - root - INFO - Network: baeminNet
+2020-10-26 11:23:49,370 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-26 11:23:49,370 - root - INFO - Nu-paramerter: 0.10
+2020-10-26 11:23:49,380 - root - INFO - Computation device: cuda
+2020-10-26 11:23:49,380 - root - INFO - Number of dataloader workers: 0
+2020-10-26 11:23:50,998 - root - INFO - Pretraining: False
+2020-10-26 11:23:50,998 - root - INFO - Training optimizer: adam
+2020-10-26 11:23:50,998 - root - INFO - Training learning rate: 0.001
+2020-10-26 11:23:50,998 - root - INFO - Training epochs: 5
+2020-10-26 11:23:50,998 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-26 11:23:50,998 - root - INFO - Training batch size: 128
+2020-10-26 11:23:50,998 - root - INFO - Training weight decay: 1e-06
+2020-10-26 11:23:53,548 - root - INFO - Initializing center c...
+2020-10-26 11:24:28,119 - root - INFO - Center c initialized.
+2020-10-26 11:24:28,120 - root - INFO - Starting training...
+2020-10-26 11:25:05,630 - root - INFO -   Epoch 1/5	 Time: 37.509	 Loss: 145.51584084
+2020-10-26 11:25:45,240 - root - INFO -   Epoch 2/5	 Time: 39.608	 Loss: 57.19192400
+2020-10-26 11:26:24,230 - root - INFO -   Epoch 3/5	 Time: 38.989	 Loss: 20.39703241
+2020-10-26 11:29:41,577 - root - INFO - Log file is Deep SVDD/results/adinsight/log.txt.
+2020-10-26 11:29:41,577 - root - INFO - Data path is Final_data/.
+2020-10-26 11:29:41,577 - root - INFO - Export path is Deep SVDD/results/adinsight.
+2020-10-26 11:29:41,577 - root - INFO - Dataset: ADbaemin
+2020-10-26 11:29:41,577 - root - INFO - Normal class: 0
+2020-10-26 11:29:41,577 - root - INFO - Network: baeminNet
+2020-10-26 11:29:41,577 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-26 11:29:41,577 - root - INFO - Nu-paramerter: 0.10
+2020-10-26 11:29:41,611 - root - INFO - Computation device: cuda
+2020-10-26 11:29:41,611 - root - INFO - Number of dataloader workers: 0
+2020-10-26 11:29:42,415 - root - INFO - Pretraining: False
+2020-10-26 11:29:42,415 - root - INFO - Training optimizer: adam
+2020-10-26 11:29:42,415 - root - INFO - Training learning rate: 0.001
+2020-10-26 11:29:42,415 - root - INFO - Training epochs: 5
+2020-10-26 11:29:42,415 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-26 11:29:42,415 - root - INFO - Training batch size: 128
+2020-10-26 11:29:42,415 - root - INFO - Training weight decay: 1e-06
+2020-10-26 11:29:43,735 - root - INFO - Initializing center c...
+2020-10-26 11:47:32,363 - root - INFO - Log file is Deep SVDD/results/adinsight/log.txt.
+2020-10-26 11:47:32,363 - root - INFO - Data path is Final_data/.
+2020-10-26 11:47:32,363 - root - INFO - Export path is Deep SVDD/results/adinsight.
+2020-10-26 11:47:32,363 - root - INFO - Dataset: ADbaemin
+2020-10-26 11:47:32,364 - root - INFO - Normal class: 0
+2020-10-26 11:47:32,364 - root - INFO - Network: baeminNet
+2020-10-26 11:47:32,364 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-26 11:47:32,364 - root - INFO - Nu-paramerter: 0.10
+2020-10-26 11:47:32,398 - root - INFO - Computation device: cuda
+2020-10-26 11:47:32,398 - root - INFO - Number of dataloader workers: 0
+2020-10-26 11:47:33,196 - root - INFO - Pretraining: False
+2020-10-26 11:47:33,196 - root - INFO - Training optimizer: adam
+2020-10-26 11:47:33,196 - root - INFO - Training learning rate: 0.001
+2020-10-26 11:47:33,196 - root - INFO - Training epochs: 5
+2020-10-26 11:47:33,196 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-26 11:47:33,197 - root - INFO - Training batch size: 128
+2020-10-26 11:47:33,197 - root - INFO - Training weight decay: 1e-06
+2020-10-26 11:47:34,555 - root - INFO - Initializing center c...
+2020-10-26 11:47:51,616 - root - INFO - Center c initialized.
+2020-10-26 11:47:51,616 - root - INFO - Starting training...
+2020-10-26 11:48:10,533 - root - INFO -   Epoch 1/5	 Time: 18.916	 Loss: 144.77220149
+2020-10-26 11:48:29,347 - root - INFO -   Epoch 2/5	 Time: 18.813	 Loss: 56.72632348
+2020-10-26 11:48:48,061 - root - INFO -   Epoch 3/5	 Time: 18.713	 Loss: 20.15963665
+2020-10-26 11:49:07,110 - root - INFO -   Epoch 4/5	 Time: 19.047	 Loss: 5.61069354
+2020-10-26 11:49:26,101 - root - INFO -   Epoch 5/5	 Time: 18.990	 Loss: 1.12565686
+2020-10-26 11:49:26,101 - root - INFO - Training time: 94.485
+2020-10-26 11:49:26,102 - root - INFO - Finished training.
+2020-10-26 11:49:26,102 - root - INFO - Saving points outside of r
+2020-10-26 11:50:41,746 - root - INFO - Starting testing...
+2020-10-26 11:50:51,433 - root - INFO - Testing time: 9.687
+2020-10-26 11:50:51,546 - root - INFO - Test set AUC: 73.81%
+2020-10-26 11:50:51,546 - root - INFO - Finished testing.
+2020-10-26 12:30:54,567 - root - INFO - Log file is Deep SVDD/results/adinsight/log.txt.
+2020-10-26 12:30:54,567 - root - INFO - Data path is Final_data/.
+2020-10-26 12:30:54,568 - root - INFO - Export path is Deep SVDD/results/adinsight.
+2020-10-26 12:30:54,568 - root - INFO - Dataset: ADbaemin
+2020-10-26 12:30:54,568 - root - INFO - Normal class: 0
+2020-10-26 12:30:54,568 - root - INFO - Network: baeminNet
+2020-10-26 12:30:54,568 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-26 12:30:54,568 - root - INFO - Nu-paramerter: 0.10
+2020-10-26 12:30:54,601 - root - INFO - Computation device: cuda
+2020-10-26 12:30:54,602 - root - INFO - Number of dataloader workers: 0
+2020-10-26 12:30:55,413 - root - INFO - Pretraining: False
+2020-10-26 12:30:55,413 - root - INFO - Training optimizer: adam
+2020-10-26 12:30:55,413 - root - INFO - Training learning rate: 0.001
+2020-10-26 12:30:55,413 - root - INFO - Training epochs: 5
+2020-10-26 12:30:55,414 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-26 12:30:55,414 - root - INFO - Training batch size: 128
+2020-10-26 12:30:55,414 - root - INFO - Training weight decay: 1e-06
+2020-10-26 12:30:56,754 - root - INFO - Initializing center c...
+2020-10-26 12:31:13,799 - root - INFO - Center c initialized.
+2020-10-26 12:31:13,799 - root - INFO - Starting training...
+2020-10-26 12:31:32,778 - root - INFO -   Epoch 1/5	 Time: 18.978	 Loss: 144.93798017
+2020-10-26 12:31:51,910 - root - INFO -   Epoch 2/5	 Time: 19.131	 Loss: 57.10765527
+2020-10-26 12:32:10,791 - root - INFO -   Epoch 3/5	 Time: 18.880	 Loss: 20.53339752
+2020-10-26 12:32:30,071 - root - INFO -   Epoch 4/5	 Time: 19.279	 Loss: 5.77392022
+2020-10-26 12:32:49,168 - root - INFO -   Epoch 5/5	 Time: 19.096	 Loss: 1.18562011
+2020-10-26 12:32:49,169 - root - INFO - Training time: 95.370
+2020-10-26 12:32:49,169 - root - INFO - Finished training.
+2020-10-26 12:32:49,169 - root - INFO - Saving points outside of r
+2020-10-26 12:34:05,319 - root - INFO - Starting testing...
+2020-10-26 12:34:15,094 - root - INFO - Testing time: 9.775
+2020-10-26 12:34:15,208 - root - INFO - Test set AUC: 70.70%
+2020-10-26 12:34:15,208 - root - INFO - Finished testing.
+2020-10-27 04:45:17,949 - root - INFO - Log file is Deep SVDD/results/adinsight/log.txt.
+2020-10-27 04:45:17,949 - root - INFO - Data path is Final_data/.
+2020-10-27 04:45:17,949 - root - INFO - Export path is Deep SVDD/results/adinsight.
+2020-10-27 04:45:17,949 - root - INFO - Dataset: ADbaemin
+2020-10-27 04:45:17,950 - root - INFO - Normal class: 0
+2020-10-27 04:45:17,950 - root - INFO - Network: baeminNet
+2020-10-27 04:45:17,950 - root - INFO - Deep SVDD objective: soft-boundary
+2020-10-27 04:45:17,950 - root - INFO - Nu-paramerter: 0.10
+2020-10-27 04:45:17,984 - root - INFO - Computation device: cuda
+2020-10-27 04:45:17,984 - root - INFO - Number of dataloader workers: 0
+2020-10-27 04:45:18,818 - root - INFO - Pretraining: False
+2020-10-27 04:45:18,818 - root - INFO - Training optimizer: adam
+2020-10-27 04:45:18,818 - root - INFO - Training learning rate: 0.001
+2020-10-27 04:45:18,818 - root - INFO - Training epochs: 5
+2020-10-27 04:45:18,818 - root - INFO - Training learning rate scheduler milestones: ()
+2020-10-27 04:45:18,818 - root - INFO - Training batch size: 128
+2020-10-27 04:45:18,818 - root - INFO - Training weight decay: 1e-06
+2020-10-27 04:45:20,166 - root - INFO - Initializing center c...
+2020-10-27 04:45:36,951 - root - INFO - Center c initialized.
+2020-10-27 04:45:36,951 - root - INFO - Starting training...
+2020-10-27 04:45:55,862 - root - INFO -   Epoch 1/5	 Time: 18.910	 Loss: 146.22192128
+2020-10-27 04:46:14,481 - root - INFO -   Epoch 2/5	 Time: 18.618	 Loss: 57.23883143
+2020-10-27 04:46:33,039 - root - INFO -   Epoch 3/5	 Time: 18.556	 Loss: 20.50948842
+2020-10-27 04:46:52,018 - root - INFO -   Epoch 4/5	 Time: 18.978	 Loss: 5.74845167
+2020-10-27 04:47:10,904 - root - INFO -   Epoch 5/5	 Time: 18.884	 Loss: 1.15995403
+2020-10-27 04:47:10,904 - root - INFO - Training time: 93.952
+2020-10-27 04:47:10,904 - root - INFO - Finished training.
+2020-10-27 04:47:10,904 - root - INFO - Saving points outside of r
+2020-10-27 04:48:28,541 - root - INFO - Starting testing...
+2020-10-27 04:48:38,112 - root - INFO - Testing time: 9.570
+2020-10-27 04:48:38,222 - root - INFO - Test set AUC: 92.36%
+2020-10-27 04:48:38,222 - root - INFO - Finished testing.
